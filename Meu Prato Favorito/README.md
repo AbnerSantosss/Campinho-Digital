@@ -1,14 +1,14 @@
-                                          
-# ✨Campinho Digital✨
+#### Esse é um exercicio de git, onde praticamos fazer push nos repositórios do Github!                                          
+# Minha comida favorita é Hamburguer! 🍔
 
-###  Bem-Vindo visitante! 🖖
->Esse é meu repositorio do curso que estou fazendo do campinho digital, aqui mostro meus projetos q evolução durante o curso!
+>Sempre quando saio, tem que ter!! hahaha
 
-####  O que é Campinho Digital?
-> Campinho Digital é uma ONG que capacita pessoas em vulnerabilidade social em habilidades digitais, tecnológicas e emocionais para o mercado digital.
-> Eles focam na integração social, formação para mercado de trabalho e renda das pessoas residentes nas periferias.
-> Oferecem capacitações gratuitas de maneira 100% online. Os temas principais são: habilidades digitais, programação, marketing digital e habilidades sócio-emocinais. Eles fazem isso através de uma metodologia de ensino descomplicada, acolhedora e ativa, através de uma plataforma de ensino.
+![69eec8333831c66073ebe144fef9bd5c](https://user-images.githubusercontent.com/107922389/175797409-b967d5ca-7a82-497b-bc89-c53baad047f5.gif)
 
 
 
-![Design sem nome](https://user-images.githubusercontent.com/107922389/175796543-e0b5d2fb-dd8e-447d-bf5b-d9100cef81cc.gif)
+# Gosto também de filmes de ficção cientifica!
+> O filme que mais gosto é da trilogia:  "De volta para o futuro". Um filme de 1985 que marcou minha vida! 
+
+![31bcdda972312290ef8eb1b4b7687c61](https://user-images.githubusercontent.com/107922389/175797859-6fc9d389-8f0d-431d-9a3c-86c77a5a5576.gif)
+
