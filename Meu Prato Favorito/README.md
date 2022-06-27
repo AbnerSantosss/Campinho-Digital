@@ -1,4 +1,4 @@
-#### Esse é um exercicio de git, onde praticamos fazer push nos repositórios do Github!                                          
+#### Esse é um exercicio de git, onde praticamos fazer push no repositórios do Github!                                          
 # Minha comida favorita é Hamburguer! 🍔
 
 >Sempre quando saio, tem que ter!! hahaha
