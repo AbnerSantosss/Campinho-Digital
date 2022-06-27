@@ -2,7 +2,7 @@
 # ✨Campinho Digital✨
 
 ###  Bem-Vindo visitante! 🖖
->Esse é meu repositorio do curso que estou fazendo do campinho digital, aqui mostro meus projetos q evolução durante o curso!
+>Esse é meu repositorio do curso que estou fazendo do campinho digital, aqui mostro meus projetos e evolução durante o curso!
 
 ####  O que é Campinho Digital?
 > Campinho Digital é uma ONG que capacita pessoas em vulnerabilidade social em habilidades digitais, tecnológicas e emocionais para o mercado digital.
