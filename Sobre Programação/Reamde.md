@@ -1,4 +1,4 @@
-## Como a programação Mudou a minha vida
+## 💡Como a programação Mudou a minha vida💡
 > Falar Sobre Programação para mim é falar sobre paixão, proposito e mais que isso... se encontrar!
 > Até um tempo atrás eu não sabia o que era código, e também não sabia meu propósito, mas quando conheci o mundo do desenvolvimento me descobrir, des de então só me dedico e posso dizer que hoje tenho um propósito que é: Ajudar pessoas através da tecnologia! ❤️
 
