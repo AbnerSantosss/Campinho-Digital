@@ -1,14 +1,13 @@
                                           
-# ✨Campinho Digital✨
+# ✨Atividade Proposta na aula de JS✨
 
-###  Bem-Vindo visitante! 🖖
->Esse é meu repositorio do curso que estou fazendo do campinho digital, aqui mostro meus projetos e evolução durante o curso!
-
-####  O que é Campinho Digital?
-> Campinho Digital é uma ONG que capacita pessoas em vulnerabilidade social em habilidades digitais, tecnológicas e emocionais para o mercado digital.
-> Eles focam na integração social, formação para mercado de trabalho e renda das pessoas residentes nas periferias.
-> Oferecem capacitações gratuitas de maneira 100% online. Os temas principais são: habilidades digitais, programação, marketing digital e habilidades sócio-emocinais. Eles fazem isso através de uma metodologia de ensino descomplicada, acolhedora e ativa, através de uma plataforma de ensino.
-
+> Ao clicar no botão um alrt é disparado!
+> > Fiz um template baseado no site do campinho digital
+> Segue o que foi ultilizado
+* Ao clicar no botão é chamada uma função no javascript que disparada um alert! 
+* Usei o document.querySelector para pegar o seletor do botão
+* O addEventListener para ouvir o click e chamar a função!
 
 
-![Design sem nome](https://user-images.githubusercontent.com/107922389/175796543-e0b5d2fb-dd8e-447d-bf5b-d9100cef81cc.gif)
+![Papel de parede com alienígena paz e amor ilustrado cinza (6)](https://user-images.githubusercontent.com/107922389/177622609-13004226-5054-4a39-b6ef-89fccc77ff98.gif)
+
